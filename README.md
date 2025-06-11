@@ -65,5 +65,5 @@ This project aims to detect and classify fake news articles using semantic text 
 
 ## 👨‍💻 Author
 
-**Deebesh S** **Rahul Shetty** **Rahul Singh**  
+**Deebesh S,** **Rahul Shetty,** **Rahul Singh**  
 *Data Science | Machine Learning | NLP Enthusiast*
